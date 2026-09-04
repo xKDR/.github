@@ -1,6 +1,4 @@
-# XKDR Forum
-
-XKDR Forum is an academic, non-partisan research organization. We conduct independent, evidence-based research at the intersection of economics, law, public administration, and data science. Our goal is to improve public policy processes and outcomes in India by building deep institutional knowledge, primary datasets, and analytical capacity.
+We are an academic research organization. We conduct independent, evidence-based research at the intersection of economics, law, public administration, and data science. Our goal is to improve public policy processes and outcomes in India by building deep institutional knowledge, primary datasets, and analytical capacity.
 
 ---
 
